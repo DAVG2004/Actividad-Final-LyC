@@ -1,0 +1,4 @@
+# Prueba 3: Error lexico
+FRM node:18-alpine
+WORKDIR /app
+COPY . .
